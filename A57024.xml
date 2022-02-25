@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A reply to the case of Wapping White-Chappel</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57024</idno>
+            <idno type="STC">Wing R1070</idno>
+            <idno type="STC">ESTC R219816</idno>
+            <idno type="EEBO-CITATION">99831263</idno>
+            <idno type="PROQUEST">99831263</idno>
+            <idno type="VID">35726</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57024)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35726)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2096:07)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A reply to the case of Wapping White-Chappel</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1694]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the Lincoln's Inn Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Parishes (Local government) --  England --  London --  Early works to 1800.</term>
+               <term>Parishes --  England --  London --  Early works to 1800.</term>
+               <term>Hearth-money --  England --  London --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:35726:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 18 -->
+            <head>A Reply to the CASE Of Wapping White-Chappel.</head>
+            <p>WHereas the Hamblet of <hi>Wapping White-Chappel</hi> Aledges, that they are not the Fourth part of the Pariſh of St. <hi>Mary White-Chappel. Anſwer.</hi> About 12 Years ſince there was a Computation made, by the Books in the Office of Hearth-Money, and then it appeared, that there was as many Houſes within the lower Hamblet as in the upper Hamblet, within 35, and it is believed, that now they are above a Third part.</p>
+            <p>
+               <label>To their Alegation of the great Increaſe of the Poor.</label>
+            </p>
+            <p>The accidental Poor of the upper Hamblet, amounts to above Eight times more than what they did within a few Years, be<g ref="char:EOLhyphen"/>ſides a great number of Penſion Poor and Nurſe-Children.</p>
+            <p>
+               <label>And whereas they Aledge, that they would be Exempted from Repairs of the Church.</label>
+            </p>
+            <p>They have all ways Paid towards it, and have of late Years Paid 12 <hi>l.</hi> or 13 <hi>l. Per Annum,</hi> for their Proportion.</p>
+            <p>
+               <label>
+                  <hi>And they do Aledge, that they have been at</hi> 700 <hi>l. Charge in Paving of their Highways.</hi>
+               </label>
+            </p>
+            <p>The upper Hamblet hath expended much more, their Paved Streets being far Wider, and more Worne, it being a very great Inlet to <hi>London;</hi> and hath now 20 Rood long, and half the bredth of the Street, againſt the Church and Church-Yard, which was formerly Paved by an Act of <hi>Parliament</hi> made in 32 Year of <hi>Henry</hi> the Eight, which run to Ruein, and hath of late Years been Graveled with the reſt of the Highways, to ſave the Charge of Paving, and now there is an Order of Seſſions to Pave it, which is neceſſary to be don.</p>
+            <p>
+               <label>As to the Graveled Highways.</label>
+            </p>
+            <p>They all lye in the upper Hamblet, and is become very Chargeable, the Repairs thereof laſt Year, and not all don that they was Obliged to do, did amount to 226 <hi>l.</hi> 6 <hi>s.</hi> 2 <hi>d.</hi> as appears upon the Surveyors Accompts upon Oath, which was formerly Repaired for 18 <hi>l. Per Annum,</hi> they then Digging the Gravel out of the Common, are now conſtrained to Buy it at a far greater Diſtance, and at more Charge.</p>
+            <p>
+               <note place="margin">All the Gravel High-ways lie in the upper Hamblet. More chargable than formerly.</note> Alſo being Obliged by ſeveral Acts of <hi>Parliament,</hi> for the better Repairing of them, and by an Order made at a General Quarter Seſſions, to Repair more Highways, eſpecially one Highway of Eighty Rood long and upwards, that leads to the lower Hamblet of <hi>Wapping White Chappel,</hi> which was never uſed to be don till within theſe Two Years laſt, all which is a common Be<g ref="char:EOLhyphen"/>nefit to the lower Hamblet as others.</p>
+            <p>Whereas the lower Hamblet finding the Highways ſo Chargeable, did indevour to Reduce their Charge laſt Year, by Nomi<g ref="char:EOLhyphen"/>nating their own Surveyors, who for their Proportion, did Collect upon their own Inhabitants 77 <hi>l.</hi> 19 <hi>s.</hi> 2 <hi>d.</hi> as appeared by the Surveyors Accoumpt Ratified by the Juſtices of the Peace for the <hi>Tower</hi> Diviſſion.</p>
+            <p>
+               <label>They alſo Aledge, <hi>That their Hamblet is at great Charge with the Out-lets of the Common-ſhore, and ſtill are at great Coſt in main<g ref="char:EOLhyphen"/>taining them, which Receive and Carry great part of the Water from the upper Hamblet into the River of</hi> Thames, <hi>and the upper Hamb<g ref="char:EOLhyphen"/>let at no Charge.</hi>
+               </label>
+            </p>
+            <p>
+               <note place="margin">The lower Hamblet liable by Act of Par<g ref="char:EOLhyphen"/>liament to carry the Wtaer off the Up-lands.</note> In <hi>Anſwer</hi> thereunto, the upper Hamblet Receives no more Benefit than what they did before the Level was taken out of the River of <hi>Thames,</hi> and are not liable to loſs, as being the Up-Lands. The Level was Drained by Act of <hi>Parliament,</hi> which Act remains among the Records in the <hi>Tower,</hi> by which Act the whole Level was Obliged to Maintain the Out-lets, to carry the Water off the Up-Lands, without which they could not Drain the Level. This hath been a Tried Caſe at the <hi>Kings-Bench Bar,</hi> that the Up-Lands are not liable to any Charge for the Out-lets.</p>
+            <p>
+               <label>Alſo they Aledge, <hi>That they ſhould have a Third Part of all Publick Charity, and Pariſh Rents.</hi>
+               </label>
+            </p>
+            <p>In <hi>Anſwer</hi> thereunto, They have more Publick Charities than the upper Hamblet, they Receiving Bountifully from the <hi>Trinity-Houſe,</hi> and have the Benefit of Goods taken upon the River, and Forfeited to the Uſe of the Poor, from neither of which the upper Hamblet Receive any Advantage; and as for the Rents, they were moſt given for the Releif of the Poor in the upper Hamblet, by Perſons Living in the upper Hamblet within theſe few Years, as ſeveral Perſons now Living can Teſtify, and we have no Benefit of what is given to the Poor of the lower Hamblet.</p>
+            <p>In <hi>Wapping White-Chappel</hi> Bill they are ſo unfaire there is no manner of Proviſion made for Repairs of the Highways, but to free themſelves from the ſame, and other Pariſh Charges.</p>
+            <p>The New Pariſhes of St. <hi>Ann</hi>'s, and St. <hi>James</hi>'s do continue to Pay their Proportion towards the Repairs of the Highways, to thoſe Pariſhes from which they was taken.</p>
+            <p>About 12 or 13 Years agoe, the lower Hamblet was Preſented for not Paying their Proportion to the Highways to the upper Hamblet, and they removed it to the <hi>Kings-Bench,</hi> and by a <hi>Procedendo</hi> remanded it back to a Quarter Seſſions, where they Submitted to bare their full Proportion for the Repairs of the ſaid Highways.</p>
+            <p>
+               <hi>The ſaid Inhabitants therefore hope, That in caſe it ſhall ſeem Reaſonable to this Honourable Houſe, to make the ſaid Hamblet of</hi> Wapping <hi>a diſtinct Pariſh, yet, That the ſame ſhall be no Prejudice to the Parish of</hi> White-Chappel. <hi>But that the ſaid Hamblet shall ſtill continue ſubject to the Repairs of the Church and High-ways of the ſaid Parish, as formerly.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
